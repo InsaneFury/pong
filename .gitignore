@@ -1,0 +1,9 @@
+#Ignore bin
+Pong/[Bb]in/
+
+#Ignore obj
+Pong/[Oo]bj/
+
+#Ignore .vs except .suo
+**/.vs
+.vs\Pong\v15\!.suo
